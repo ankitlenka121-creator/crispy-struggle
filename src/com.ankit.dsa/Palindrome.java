@@ -18,9 +18,9 @@ public class Palindrome {
                 sum = sum * 10 + rev;
             }
             if (sum==i)
-                System.out.println("pallendrome");
+                System.out.println("palindrome");
             else
-                System.out.println(" not pallendrome");
+                System.out.println(" not palindrome");
         }
     }
 
